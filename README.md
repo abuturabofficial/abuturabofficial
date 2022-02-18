@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Tryhackme learning paths
 
-<script src="https://tryhackme.com/badge/939209"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/smdotdev.png" alt="TryHackMe">
 
 - 🌱 I’m currently learning CyberSecurity along with few of the programming related courses
 
