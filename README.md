@@ -1,12 +1,13 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on Tryhackme learning paths
+
+<script src="https://tryhackme.com/badge/939209"></script>
+
+- 🌱 I’m currently learning CyberSecurity along with few of the programming related courses
+
 <!--
-**smdotdev/smdotdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
