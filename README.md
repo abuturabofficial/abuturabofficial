@@ -2,9 +2,10 @@
 
 
 - 🔭 I’m currently working on Tryhackme learning paths
-
-    <img src="https://tryhackme-badges.s3.amazonaws.com/smdotdev.png" alt="TryHackMe">
-
+    
+    My Profile on TryHackMe
+    https://tryhackme.com/p/smdotdev
+    
 - 🌱 I’m currently learning CyberSecurity along with few of the programming related courses
 
 <!--
