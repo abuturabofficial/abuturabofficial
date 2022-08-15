@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Tryhackme learning paths
+- 🔭 I’m currently working on Tryhackme learning paths.
     
-    My Profile on TryHackMe
+    My Profile on TryHackMe:
     https://tryhackme.com/p/smdotdev
     
-- 🌱 I’m currently learning CyberSecurity along with few of the programming related courses
+- 🌱 I’m currently learning CyberSecurity along with few of the programming related courses.
 
 - 📹 CyberFront is my YouTube channel, where I mainly focus on the content related to the cybersecurity, but not limited to.
 
