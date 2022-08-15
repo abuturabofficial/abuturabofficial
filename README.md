@@ -19,13 +19,16 @@
 -->
 - 📫 How to reach me: 
 
-    YouTube: https://www.youtube.com/channel/UC5SzWR9IBNrv9za0l1zv4yg
+    YouTube 🎥: https://www.youtube.com/channel/UC5SzWR9IBNrv9za0l1zv4yg
     
-    Twitter: https://twitter.com/smonsec
+    Twitter 🐦: https://twitter.com/smonsec
     
-    LinkedIn: https://www.linkedin.com/in/smonsec/
+    LinkedIn 💼: https://www.linkedin.com/in/smonsec/
     
-    Github: https://github.com/smonsec
+    Github 💻: https://github.com/smonsec
     
-    Email: smonsec+github@proton.me
+    Email ✉️: smonsec+github@proton.me
     
+    My Threema ID 🪪: https://threema.id/VJCUAUU9
+    
+    Signal 💬(only): +923177679452   
