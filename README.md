@@ -30,5 +30,3 @@
     Email ✉️: smonsec+github@proton.me
     
     My Threema ID 🪪: https://threema.id/VJCUAUU9
-    
-    Signal 💬(only): +923177679452   
