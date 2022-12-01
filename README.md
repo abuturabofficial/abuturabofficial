@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Tryhackme learning paths.
     
     My Profile on TryHackMe:
-    https://tryhackme.com/p/smdotdev
+    https://tryhackme.com/p/smonsec
     
 - 🌱 I’m currently learning CyberSecurity along with few of the programming related courses.
 
@@ -19,7 +19,7 @@
 -->
 - 📫 How to reach me: 
 
-    YouTube 🎥: https://www.youtube.com/channel/UC5SzWR9IBNrv9za0l1zv4yg
+    YouTube 🎥: https://www.youtube.com/channel/@cyberfront-cc
     
     Twitter 🐦: https://twitter.com/smonsec
     
