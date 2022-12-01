@@ -19,7 +19,7 @@
 -->
 - 📫 How to reach me: 
 
-    YouTube 🎥: https://www.youtube.com/channel/@cyberfront-cc
+    YouTube 🎥: https://www.youtube.com/@cyberfront-cc
     
     Twitter 🐦: https://twitter.com/smonsec
     
