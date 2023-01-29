@@ -21,12 +21,10 @@
 
     YouTube 🎥: https://www.youtube.com/@cyberfront-cc
     
-    Twitter 🐦: https://twitter.com/smonsec
+    Mastodon 🐦: https://infosec.exchange/@abuturab 
     
-    LinkedIn 💼: https://www.linkedin.com/in/smonsec/
+    LinkedIn 💼: https://www.linkedin.com/in/abuturaaab
     
-    Github 💻: https://github.com/smonsec
+    Github 💻: https://github.com/abuturaaab
     
-    Email ✉️: smonsec+github@proton.me
-    
-    My Threema ID 🪪: https://threema.id/VJCUAUU9
+    Email ✉️: abuturaaab@tutanota.com
