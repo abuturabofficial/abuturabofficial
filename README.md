@@ -19,12 +19,12 @@
 -->
 - 📫 How to reach me: 
 
-    YouTube 🎥: https://www.youtube.com/@cyberfront-cc
+    YouTube 🎥: https://www.youtube.com/@CyberFrontOfficial
     
     Mastodon 🐦: https://infosec.exchange/@abuturab 
     
-    LinkedIn 💼: https://www.linkedin.com/in/abuturaaab
+    LinkedIn 💼: https://www.linkedin.com/in/abuturabofficial
     
-    Github 💻: https://github.com/abuturaaab
+    Github 💻: https://github.com/abuturabofficial
     
     Email ✉️: cyberfront@tutanota.com
