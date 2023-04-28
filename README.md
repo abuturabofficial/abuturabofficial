@@ -27,4 +27,4 @@
     
     Github 💻: https://github.com/abuturaaab
     
-    Email ✉️: abuturaaab@tutanota.com
+    Email ✉️: cyberfront@tutanota.com
