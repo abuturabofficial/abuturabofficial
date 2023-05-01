@@ -21,7 +21,7 @@
 
     YouTube 🎥: https://www.youtube.com/@CyberFrontOfficial
     
-    Mastodon 🐦: https://infosec.exchange/@abuturab 
+    Mastodon 🐦: https://infosec.exchange/@abuturab <a rel="me" href="https://infosec.exchange/@abuturab">Mastodon</a>
     
     LinkedIn 💼: https://www.linkedin.com/in/abuturabofficial
     
