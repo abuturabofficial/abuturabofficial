@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- Here the links for my Coursera, and Credly, which shows my real-time achievements. As I'm continuously working to improve myself.
+
+    Coursera: https://www.coursera.org/user/1a5692f90c737cd50f50425c4bc15628
+    Credly: https://www.credly.com/users/abuturabofficial/badges
 
 - 🔭 I’m currently working on Tryhackme learning paths.
     
