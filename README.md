@@ -32,4 +32,4 @@
     
     Github 💻: https://github.com/abuturabofficial
     
-    Email ✉️: cyberfront@tutanota.com
+    Email ✉️: cyberfrontofficial@proton.me
