@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on Tryhackme learning paths.
     
     My Profile on TryHackMe:
-    https://tryhackme.com/p/smonsec
+    https://tryhackme.com/p/abuturabofficial
     
 - 🌱 I’m currently learning CyberSecurity along with few of the programming related courses.
 
