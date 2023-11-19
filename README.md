@@ -23,13 +23,14 @@
 - ⚡ Fun fact: ...
 -->
 - 📫 How to reach me: 
-
-    YouTube 🎥: https://www.youtube.com/@CyberFrontOfficial
-    
+    Website 🌐: https://cyberfront
+      
     Mastodon 🐦: https://mastodon.social/@abuturab <a rel="me" href="https://mastodon.social/@abuturab">Mastodon</a>
     
     LinkedIn 💼: https://www.linkedin.com/in/abuturabofficial
     
     Github 💻: https://github.com/abuturabofficial
+
+    YouTube 🎥: https://www.youtube.com/@CyberFrontOfficial (Not Active)
     
     Email ✉️: cyberfrontofficial@proton.me
