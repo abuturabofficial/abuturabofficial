@@ -37,4 +37,4 @@
 
     Email ✉️: cyberfrontofficial@proton.me
 
-    GPG Public Key: [Download](https://keys.openpgp.org/vks/v1/by-fingerprint/B2A1748F33BAE85E5A9C49C741EBAB900757D730)
+    GPG Public Key: [Download](https://cyberfront.me/assets/misc/publickey.asc)
