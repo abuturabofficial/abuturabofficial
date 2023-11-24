@@ -6,7 +6,7 @@
     
     Credly: https://www.credly.com/users/abuturabofficial/badges
 
-   **My Notes available at:** https://cyberfront.me/categories/my-notes/
+   **My Notes available at:** https://cyberfront.me/categories/my-notes/ (For more granular filtering, please use the `tags` button on the website's side bar.
 
 - 🔭 I’m currently working on Tryhackme learning paths.
     
