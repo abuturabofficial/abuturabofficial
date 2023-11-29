@@ -15,8 +15,6 @@
     
 - 🌱 I’m currently learning CyberSecurity along with few of the programming related courses.
 
-- 📹 CyberFront is my YouTube channel, where I mainly focus on the content related to the cybersecurity, but not limited to.
-
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -33,9 +31,6 @@
     LinkedIn 💼: https://www.linkedin.com/in/abuturabofficial
     
     Github 💻: https://github.com/abuturabofficial
-
-    YouTube 🎥: https://www.youtube.com/@CyberFrontOfficial (Not Active)
-
 
     Email ✉️: cyberfrontofficial@proton.me
 
