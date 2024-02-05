@@ -2,9 +2,9 @@
 
 - Here the links for my Coursera and Credly Profiles, which show my real-time achievements. As I'm continuously working to improve myself.
 
-    Coursera: https://www.coursera.org/user/1a5692f90c737cd50f50425c4bc15628
+    Coursera Profile: https://www.coursera.org/user/1a5692f90c737cd50f50425c4bc15628
     
-    Credly: https://www.credly.com/users/abuturabofficial/badges
+    Credly Profile: https://www.credly.com/users/abuturabofficial/badges
 
    **My Notes available at:** https://cyberfront.me/categories/my-notes/ (For more granular filtering, please use the `tags` button on the website's side bar and look for `Courses TOC` tag, or directly [go here](http://cyberfront.me/tags/courses-toc/).
 
