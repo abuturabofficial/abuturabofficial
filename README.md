@@ -1,3 +1,15 @@
+# Update
+
+I have been busy migrating my old site to Hugo instead of Jekyll. Also, I will use different template/subdomain for my notes instead of creating a chaos on a single main domain page.
+
+My new site: https://cyberfront.me (With old and new content)
+
+My Notes Wiki: https://wiki.cyberfront.me (Still under construction)
+
+For the time being, I have my old website with all blogs and notes available here: https://legacy.cyberfront.me
+
+---
+
 ### Hi there 👋
 
 - Here the links for my Coursera and Credly Profiles, which show my real-time achievements. As I'm continuously working to improve myself.
