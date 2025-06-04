@@ -2,9 +2,9 @@
 
 - Here are the links for my Coursera and Credly Profiles, which show my real-time achievements. As I'm continuously working to improve myself.
   
-   **My Blog at:** https://cyberfront.me
+   **My Blog at:** https://sajidmahmood.com
 
-   **My Notes available at:** https://wiki.cyberfront.me.
+   **My Notes available at:** https://wiki.sajidmahmood.com.
 
     Coursera Profile: https://www.coursera.org/user/1a5692f90c737cd50f50425c4bc15628
     
@@ -21,7 +21,7 @@
 
 The easiest and the fastest way to approach me is via email. (Use my Public PGP key to encrypt your emails before sending)
 
-- 🌐 [Follow my Blog](https://cyberfront.me)
+- 🌐 [Follow my Blog](https://sajidmahmood.com)
 - 🐙 [GitHub](https://github.com/abuturabofficial)
 - 💼 [LinkedIn](https://linkedin.com/in/abuturabofficial)
 - 🐘 [Mastodon](https://mastodon.social/@abuturab)
