@@ -26,5 +26,5 @@ The easiest and the fastest way to approach me is via email. (Use my Public PGP 
 - 💼 [LinkedIn](https://linkedin.com/in/abuturabofficial)
 - 🐘 [Mastodon](https://mastodon.social/@abuturab)
 - 🐦 [Twitter/X](https://x.com/abuturabofcl)
-- ✉️ [Email Me](mailto:cyberfrontofficial@proton.me)
-- 🔑 [Email PGP Public Key](https://cyberfront.me/misc/publickey.asc)
+- ✉️ [Email Me](mailto:thesajid@proton.me)
+- 🔑 [Email PGP Public Key](https://sajidmahmood.com/misc/publickey.thesajid@proton.me.asc)
