@@ -71,7 +71,7 @@ $ cat principles.txt
 | May 05, 2026 | [Linux Directories Simplified](https://sajidmahmood.com/linux-directories/) |
 | May 04, 2026 | [Hugo Theme Stack: Make Avatar Image Respond With Light and Dark Theme](https://sajidmahmood.com/hugo-avatar-change-with-theme/) |
 | Apr 30, 2026 | [ThinkPad: Linux Battery Monitoring and Charge Control](https://sajidmahmood.com/thinkpad-battery-monitoring-and-charge-control/) |
-| Apr 28, 2026 | [Arch Linux: Fix KVM VM's Internet Not Working with the Firewall Enabled](https://sajidmahmood.com/fix-virt-manager-internet-issue/) |
+| Apr 28, 2026 | [Arch Linux: How to Fix KVM Virtual Machine's Internet Not Working with the Firewall Enabled](https://sajidmahmood.com/fix-virt-manager-internet-issue/) |
 | Apr 23, 2026 | [Thunar File Manager: Open any Terminal via Open Terminal Here](https://sajidmahmood.com/thunar-open-terminal/) |
 | Apr 08, 2026 | [ImageMagick: A CLI Tool for Quick Image Manipulation](https://sajidmahmood.com/imagemagick-tips-and-tricks/) |
 | Feb 23, 2026 | [Fedora Workstation: Things to Do After Installation](https://sajidmahmood.com/fedora-post-installation-guide/) |
