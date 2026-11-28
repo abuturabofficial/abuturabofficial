@@ -131,7 +131,7 @@ $ cat principles.txt
 
 ## 🔐 Get in Touch
 
-- 📧 Email: via the contact page on [sajidmahmood.com/about](https://sajidmahmood.com/about/)
+- 📧 Email: [thesajid@proton.me](mailto:thesajid@proton.me)   
 - 🔑 PGP: [public key](https://keys.openpgp.org/vks/v1/by-fingerprint/1561AB4B0D17ECA0A92D2C29B46E542E8DEB33B5) · fingerprint `1561 AB4B 0D17 ECA0 A92D  2C29 B46E 542E 8DEB 33B5`
 
 <div align="center">
